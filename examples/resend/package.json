@@ -13,7 +13,7 @@
     "@react-email/components": "^0.0.36",
     "react": "^19",
     "react-dom": "^19",
-    "resend": "^4"
+    "resend": "^6.6.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
