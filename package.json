@@ -20,7 +20,7 @@
     "@types/node": "22.14.1",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.1",
-    "happy-dom": "20.0.2",
+    "happy-dom": "20.8.8",
     "pkg-pr-new": "0.0.51",
     "tsconfig": "workspace:*",
     "tsup": "8.4.0",
