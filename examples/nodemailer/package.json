@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@react-email/components": "^0.0.36",
-    "nodemailer": "^7.0.7",
+    "nodemailer": "^8.0.4",
     "react": "^19",
     "react-dom": "^19"
   },
